@@ -1,3 +1,2 @@
 # test-repo
-
-This is a tes-repo to create the latest branch and test the pull request process.
+This is a test-repo to create the latest branch and test the pull request process.
